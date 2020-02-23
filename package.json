@@ -1,0 +1,14 @@
+{
+  "name": "@quantacomsoftware/frame",
+  "version": "0.0.2",
+  "private": false,
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "dependencies": {
+    "@quantacomsoftware/ops": "0.0.0",
+    "@quantacomsoftware/collection": "0.0.0",
+    "@quantacomsoftware/portal": "0.0.0"
+  }
+  }
+
+
+  
